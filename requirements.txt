@@ -1,0 +1,16 @@
+torch 
+torchvision 
+torchaudio
+transformers
+opencv-python
+paddleocr
+librosa
+faiss-cpu
+yolov8 
+ffmpeg-python
+whisper # (openai/whisper or whisperx)
+tqdm
+pandas
+scikit-learn
+pillow
+#source /home/pardhasaradhi/anaconda3/bin/activate /home/pardhasaradhi/projects/NueralNetworks/venv
